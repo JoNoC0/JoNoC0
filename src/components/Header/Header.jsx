@@ -5,6 +5,7 @@ import ME from '../../assets/John.png';
 import HeaderSocials from './HeaderSocials';
 
 const Header = () => {
+ 
   return (
     <header>
       <div className="container header_container">
@@ -14,10 +15,10 @@ const Header = () => {
         <CTA />
         <HeaderSocials />
         <div className="me">
-          <img src={ME} alt='John' />
+          <img src={ME} alt='John' className='me__image'/>
         </div>
 
-        <a href='#contacts' className='scroll__down'>Scroll Down</a>
+        <a href='#contact' className='scroll__down'>Scroll Down</a>
       </div>
     </header>
   )

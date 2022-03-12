@@ -45,12 +45,13 @@ export const Contacts = () => {
           </article>     */}
         </div>  
         {/* ====== END OF CONTACT OPTIONS ====== */}
+
         {/* ====== START OF CONTACT FORM ====== */}
         <form ref={form} onSubmit={sendEmail}>
-        <input type="text" name='name' placeholder='Your Full Name' required />
-        <input type="text" name='email' placeholder='Your Email' required />  
-        <textarea name='message' placeholder='Your Message' rows='7' required></textarea>
-        <button type='submit' className='btn btn-primary'>Send Message</button>
+          <input type="text" name='name' placeholder='Your Full Name' required />
+          <input type="text" name='email' placeholder='Your Email' required />  
+          <textarea name='message' placeholder='Your Message' rows='7' required></textarea>
+          <button type='submit' className='btn btn-primary'>Send Message</button>
         </form>
       </div>
     </section> 

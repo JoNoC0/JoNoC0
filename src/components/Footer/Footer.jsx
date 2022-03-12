@@ -12,18 +12,18 @@ const Footer = () => {
       <a href="#" className='footer__logo'>JNguyen</a>
 
       <ul className="permalinks">
-        <li><a href="#"Home></a></li>
-        <li><a href="#about"About></a></li>
-        <li><a href="#"experience>Experience</a></li>
-        <li><a href="#"services>Services</a></li>
-        <li><a href="#"portfolio>Portfolio</a></li>
-        <li><a href="#"contacts>Contact</a></li>
+        <li><a href="#">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#experience">Experience</a></li>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#portfolio">Portfolio</a></li>
+        <li><a href="#contacts">Contact</a></li>
       </ul>
 
       <div className="footer__socials">
-        <a href='https://wwww.linkedin.com' target='_blank'><BsLinkedin /></a>
-        <a href='https://wwww.github.com' target='_blank'><BsGithub /></a>
-        <a href='https://wwww.twitter.com' target='_blank'><BsTwitter /></a>    
+        <a href='https://wwww.linkedin.com' rel='noopener'><BsLinkedin /></a>
+        <a href='https://wwww.github.com' rel='noopener'><BsGithub /></a>
+        <a href='https://wwww.twitter.com' rel='noopener'><BsTwitter /></a>    
       </div>
 
       <div className="footer__copyright">
