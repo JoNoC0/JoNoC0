@@ -18,7 +18,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={PORT1} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3 className='portfolio-title'>FULLfill!</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com/JoNoC0" className='btn' rel='noopener'>GitHub</a>
             <a href="http://www.dribbble.com" className='btn btn-primary' rel='noopener'>Live Demo</a>
@@ -29,7 +29,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={PORT2} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3 className='portfolio-title'>Mealtime</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com/JoNoC0" className='btn' rel='noopener'>GitHub</a>
             <a href="http://www.dribbble.com" className='btn btn-primary' rel='noopener'>Live Demo</a>
@@ -40,7 +40,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={PORT3} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3 className='portfolio-title'>Best Book Review Site</h3>
           <div className="portfolio__item-cta">          
             <a href="https://github.com/JoNoC0" className='btn' rel='noopener'>GitHub</a>
             <a href="http://www.dribbble.com" className='btn btn-primary' rel='noopener'>Live Demo</a>
@@ -51,7 +51,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={PORT4} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3 className='portfolio-title'>Budget Tracker</h3>
           <div className="portfolio__item-cta">          
             <a href="https://github.com/JoNoC0" className='btn' rel='noopener'>GitHub</a>
             <a href="http://www.dribbble.com" className='btn btn-primary' rel='noopener'>Live Demo</a>
@@ -62,7 +62,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={PORT5} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3 className='portfolio-title'>Ecommerce</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com/JoNoC0" className='btn' rel='noopener'>GitHub</a>
             <a href="http://www.dribbble.com" className='btn btn-primary' rel='noopener'>Live Demo</a>         
@@ -73,7 +73,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={PORT6} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3 className='portfolio-title'>Team Profile</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com/JoNoC0" className='btn' rel='noopener'>GitHub</a>
             <a href="http://www.dribbble.com" className='btn btn-primary' rel='noopener'>Live Demo</a>

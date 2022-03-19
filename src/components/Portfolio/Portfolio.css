@@ -30,8 +30,12 @@
     display: flex;
     gap: 1rem;
     margin-bottom: 1rem;
+    justify-content: center;
 }
 
+.portfolio-title {
+    text-align: center;
+}
 /* ======= MEDIA QUERIES (MEDIUM DEVICES) ======= */
 @media screen and (max-width: 1024px) { 
     .portfolio__container {
