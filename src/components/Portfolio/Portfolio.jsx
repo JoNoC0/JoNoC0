@@ -20,8 +20,8 @@ const Portfolio = () => {
           </div>
           <h3 className='portfolio-title'>FULLfill!</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/JoNoC0" className='btn' rel='noopener'>GitHub</a>
-            <a href="http://www.dribbble.com" className='btn btn-primary' rel='noopener'>Live Demo</a>
+            <a href="https://github.com/pardue95/group-5-project-3" className='btn' rel='noopener'>GitHub</a>
+            <a href="https://fullfillbabyregistry.herokuapp.com/" className='btn btn-primary' rel='noopener'>Live Demo</a>
           </div>
         </article>
 
