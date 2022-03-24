@@ -14,7 +14,7 @@ export const About = () => {
        <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
-            <img src={ME} alt='About Image' />
+            <img src={ME} alt='John Nguyen developer' />
           </div>
         </div>  
         
@@ -24,7 +24,7 @@ export const About = () => {
             <article className="about__card">
               <FaAward className='about__icon' />
               <h5>Experience</h5>
-              <small>Bootcamp Graduate</small>
+              <small>Certificate, Full Stack Web Development Bootcamp, from the University of Texas at Austin</small>
             </article>
                   
             <article className="about__card">
@@ -36,12 +36,13 @@ export const About = () => {
             <article className="about__card">
               <VscLibrary className='about__icon' />
               <h5>Projects</h5>
-              <small>30+</small>
+              <small>Visit my GitHub Link below to see some of the projects I worked on  </small>
+              <small><a href='https://github.com/JoNoC0' rel='noopener'>Repo</a></small>
             </article>
           </div>  
       
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quia mollitia dolores ex itaque recusandae odit dicta, natus minima ratione! Quam ratione voluptates reprehenderit dolores consectetur, voluptate soluta facilis tempore error!
+            A recent Full Stack Web Development Bootcamp from the University of Texas at Austin. After many years in the restaurant business, I decided to take a leap into a different profession. It has been a very difficult, yet rewarding experience. I am not the best at Web Development, I will strive to be the best. I enjoy challenges and learning. Without learning there is will be no growth. I enjoy communicating and meeting people, learn about culture, and experience life. I'm very determined, adaptable, and not afraid to make mistakes. "Without mistakes we will never learn." Click the "Let's Talk" button to connect with me!
           </p>
           
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>

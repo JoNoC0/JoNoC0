@@ -21,9 +21,9 @@ const Footer = () => {
       </ul>
 
       <div className="footer__socials">
-        <a href='https://wwww.linkedin.com' rel='noopener'><BsLinkedin /></a>
-        <a href='https://wwww.github.com' rel='noopener'><BsGithub /></a>
-        <a href='https://wwww.twitter.com' rel='noopener'><BsTwitter /></a>    
+        <a href='https://www.linkedin.com/in/john-jonoc0/' rel='noopener'><BsLinkedin /></a>
+        <a href='https://github.com/JoNoC0' rel='noopener'><BsGithub /></a>
+        <a href='https://twitter.com/JoNoC0' rel='noopener'><BsTwitter /></a>    
       </div>
 
       <div className="footer__copyright">

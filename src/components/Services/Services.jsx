@@ -17,23 +17,15 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque!</p>
+              <p>Currently, I am working on some personal projects to help my development skills</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque!</p>
+              <p>Restaurant Website Coming Soon!</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque!</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque!</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque!</p>
+              <p>Barber Shop Website Coming Soon!</p>
             </li>
           </ul>
         </article>  
@@ -46,27 +38,15 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque!</p>
+              <p>Willing to start off as a junior developer to get a feel in this industry</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque!</p>
+              <p>Improving and expanding my knowledge of CSS, and more Backend of MongoDB, GraphQL, MySQL</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque!</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque!</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque!</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque!</p>
+              <p>Still continuing my learning by taking courses on AWS, Python, and C#</p>
             </li>
           </ul>
         </article>  
@@ -79,23 +59,15 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque!</p>
+              <p>This site was made with React and CSS</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque!</p>
+              <p>This site is a demo of some of my capabilities and what I've learn so far</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque!</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque!</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque!</p>
+              <p>Please leave a feedback(good or bad) in the contact section below. That's the only way I can become a better developer</p>
             </li>
           </ul>
         </article>  
