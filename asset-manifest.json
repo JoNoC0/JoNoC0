@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/JoNoC0/static/css/main.03cd4f3f.css",
+    "main.js": "/JoNoC0/static/js/main.d4db6069.js",
+    "static/media/ecommerce.gif": "/JoNoC0/static/media/ecommerce.4ed264fd5bca8075abc1.gif",
+    "static/media/FULLfill.png": "/JoNoC0/static/media/FULLfill.243a6248dfef64d4907d.png",
+    "static/media/AVT4.jpg": "/JoNoC0/static/media/AVT4.4d310f5bbfce26dbe411.jpg",
+    "static/media/abstractBG.jpg": "/JoNoC0/static/media/abstractBG.4c1c05947124ef69eef1.jpg",
+    "static/media/mealTime.png": "/JoNoC0/static/media/mealTime.447f65ce6b853f21d661.png",
+    "static/media/AVT3.jpg": "/JoNoC0/static/media/AVT3.b4539753613ade503c8b.jpg",
+    "static/media/AVT2.jpg": "/JoNoC0/static/media/AVT2.d3966257c6a7bdb70339.jpg",
+    "static/media/AVT1.jpg": "/JoNoC0/static/media/AVT1.9401f9f9e2eb8bdf0038.jpg",
+    "static/media/John.png": "/JoNoC0/static/media/John.b271845d0cb2e8a82285.png",
+    "static/media/budgetTracker.png": "/JoNoC0/static/media/budgetTracker.dcb14738a3d3fbe4f2b3.png",
+    "static/media/teamprofile.png": "/JoNoC0/static/media/teamprofile.b9f39264c1ee625bbe1f.png",
+    "static/media/bookback.jpg": "/JoNoC0/static/media/bookback.6f7b9766687b57205211.jpg",
+    "static/media/JNresume.pdf": "/JoNoC0/static/media/JNresume.905c5cb72466e9161438.pdf",
+    "index.html": "/JoNoC0/index.html",
+    "main.03cd4f3f.css.map": "/JoNoC0/static/css/main.03cd4f3f.css.map",
+    "main.d4db6069.js.map": "/JoNoC0/static/js/main.d4db6069.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03cd4f3f.css",
+    "static/js/main.d4db6069.js"
+  ]
+}
