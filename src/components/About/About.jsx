@@ -45,7 +45,7 @@ export const About = () => {
             A recent Full Stack Web Development Bootcamp from the University of Texas at Austin. After many years in the restaurant business, I decided to take a leap into a different profession. It has been a very difficult, yet rewarding experience. I am not the best at Web Development, I will strive to be the best. I enjoy challenges and learning. Without learning there is will be no growth. I enjoy communicating and meeting people, learn about culture, and experience life. I'm very determined, adaptable, and not afraid to make mistakes. "Without mistakes we will never learn." Click the "Let's Talk" button to connect with me!
           </p>
           
-          <a href='#contact' className='btn btn-primary'>Let's Talk</a>
+          <a href='/contact' className='btn btn-primary'>Let's Talk</a>
 
         </div>
       </div>
